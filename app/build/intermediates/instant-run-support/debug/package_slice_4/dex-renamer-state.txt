@@ -1,0 +1,4 @@
+#Sun Aug 12 01:15:57 PDT 2018
+base.0=/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

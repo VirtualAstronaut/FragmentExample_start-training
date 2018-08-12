@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:background="@color/colorAccent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".SimpleFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/question_article"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:padding="5sp"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:id="@+id/fragment_header"/>
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <RadioButton
+            android:id="@+id/radio_button_yes"
+            android:layout_marginLeft="9sp"
+            android:text="@string/yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="9sp" />
+        <RadioButton
+            android:id="@+id/radio_button_no"
+            android:layout_marginLeft="9sp"
+            android:text="@string/no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="9sp" />
+    </RadioGroup>
+
+
+</LinearLayout>
