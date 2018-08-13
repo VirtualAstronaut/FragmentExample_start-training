@@ -496,6 +496,7 @@
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="config_tooltipAnimTime">150</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="Like_the_song">like the song</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -552,7 +553,7 @@
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
     <style name="Animation.AppCompat.Tooltip" parent="Base.Animation.AppCompat.Tooltip"/>
     <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
-        
+        <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -1693,6 +1694,11 @@
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Spinner"/>
+    <style name="Ratingbar">
+        <item name="android:colorControlNormal">#303f9f</item>
+        <item name="android:colorControlActivated">#3f51b5</item>
+
+    </style>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
     <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">

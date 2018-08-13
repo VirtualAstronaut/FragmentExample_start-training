@@ -24,4 +24,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Ratingbar">
+        <item name="android:colorControlNormal">#303f9f</item>
+        <item name="android:colorControlActivated">#3f51b5</item>
+
+    </style>
+
 </resources>

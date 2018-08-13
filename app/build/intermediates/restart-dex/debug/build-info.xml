@@ -6,32 +6,26 @@
     density="xhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1534061749000"
+    timestamp="1534116227088"
     token="-1200524644288756061"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="408" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="607" />
+        duration="0" />
     <task
         name="verifier"
-        duration="19" />
+        duration="0" />
 
     <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
     <artifact
         location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
@@ -39,40 +33,40 @@
         location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
         location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
         location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
-    <artifact
-        location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/outputs/apk/app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1534061749000"
+        timestamp="1534116227088"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
@@ -80,26 +74,32 @@
             location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
             location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
-        <artifact
-            location="/home/sujal/Desktop/[FreeTutorials.Us] the-complete-android-masterclass-learn-android-from-scratch/newapp/android-advanced-starter-apps/FragmentExample_start/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
